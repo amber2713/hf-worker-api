@@ -1,0 +1,8 @@
+{
+  "name": "hf-proxy-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2025-06-03",
+  "vars": {
+    "HF_TOKEN": "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"
+  }
+}
